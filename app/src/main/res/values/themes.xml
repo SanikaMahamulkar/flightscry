@@ -1,0 +1,4 @@
+<resources>
+    <!-- The app theme extends Backpack's theme so Backpack components render correctly -->
+    <style name="Theme.Flightscry" parent="BpkTheme" />
+</resources>
